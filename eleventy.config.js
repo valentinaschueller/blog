@@ -18,12 +18,13 @@ module.exports = function(eleventyConfig) {
 		"./public/": "/",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
+	eleventyConfig.addPassthroughCopy("**/*.pdf");
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
 	// Watch content images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg,jpg}");
 
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
