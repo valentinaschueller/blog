@@ -11,7 +11,7 @@ See also:
 - [Lund University's Research Portal](https://portal.research.lu.se/en/persons/valentina-schueller)
 - [ORCID iD](https://orcid.org/0000-0002-4579-4217)
 - [GitHub](https://github.com/valentinaschueller)
-- e-mail address ([copy/pasting will not work](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/)): </br> **valentina.schuller＠math.lu․se**
+- e-mail address ([copy/pasting will not work](https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/)): </br> **`valentina.schuller＠math.lu․se`**
 
 
 ## Papers
