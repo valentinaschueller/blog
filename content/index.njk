@@ -5,9 +5,16 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
+
+<div class="welcome">
+<img src="/about/portrait.jpg" alt="Photo of me." style="width:200px;">
+{% renderFile "content/about/welcome.md" %}
+</div>
+
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1 id="blog">Blog</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -17,9 +24,3 @@ numberOfLatestPostsToShow: 3
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
 {% endif %}
-
-<h1>Talks</h1>
-{%- for entry in collections.talks %}
-<time datetime="{{ entry.data.date | htmlDateString }}">{{ entry.data.date | readableDate }}</time>: <a href="{{ entry.url }}">{{ entry.data.title }}</a></p>
-{%- endfor %}
-

@@ -6,15 +6,16 @@ layout: layouts/base.njk
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 <h1>{{ title }}</h1>
 
-<b><a href="./{{ slides }}">Download Slides</a></b>
+<i>
+{%- for author in authors%}
+{%- if "Valentina" in author%}<b>{{author}}</b>{%- else %}{{author}}{% endif%}
+{%- if not loop.last %}, {% else %}.{% endif %}
+{%- endfor %}
+</i></p>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+<center>
+<h3><a href="./{{ slides }}">Download Slides</a></h3></p>
+</center>
 
 {{ content | safe }}
 

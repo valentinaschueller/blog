@@ -225,7 +225,6 @@ header {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	text-transform: capitalize;
 	font-style: italic;
 }
 .postlist-item > .post-tag {
@@ -267,4 +266,30 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
+}
+
+.welcome {
+	text-wrap: balance;
+	/* font-family: var(--font-sans); */
+	font-size: 120%;
+	/* hyphens: auto; */
+
+	img {
+		float: right;
+		margin-right: clamp(-1 * var(--content-margin) + var(--min-padding) / 2, -0.5 * var(--width), 0em);
+		margin-left: .3rem;
+		--width: calc(4em + clamp(0px, 3vw, 6em));
+		width: var(--width);
+		aspect-ratio: 1 / 1;
+		border-radius: 50%;
+		shape-outside: circle(calc(50% + 1rem));
+	}
+
+	a:not(:hover, .call-to-action) {
+		filter: brightness(90%);
+	}
+
+	p {
+		margin-bottom: .5em;
+	}
 }

@@ -9,6 +9,7 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 /** @param {import('@11ty/eleventy').UserConfig} eleventyConfig */
 module.exports = function(eleventyConfig) {
@@ -18,7 +19,22 @@ module.exports = function(eleventyConfig) {
 		"./public/": "/",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
-	eleventyConfig.addPassthroughCopy("**/*.pdf");
+	eleventyConfig.addPassthroughCopy("**/*.{pdf,svg,webp,png,jpeg,jpg}");
+
+	// set markdown footnote processor
+	let markdownIt = require("markdown-it");
+	let markdownItFootnote = require("markdown-it-footnote");
+	
+	let options = {
+	  html: true, // Enable HTML tags in source
+	  breaks: true,  // Convert '\n' in paragraphs into <br>
+	  linkify: true // Autoconvert URL-like text to links
+	};
+	
+	// configure the library with options
+	let markdownLib =  markdownIt(options).use(markdownItFootnote);
+	// set the library to process markdown files
+	eleventyConfig.setLibrary("md", markdownLib);
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
@@ -29,6 +45,7 @@ module.exports = function(eleventyConfig) {
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(pluginImages);
+	eleventyConfig.addPlugin(EleventyRenderPlugin);
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginRss);
