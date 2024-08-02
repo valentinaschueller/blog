@@ -7,7 +7,6 @@ const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
-const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
@@ -19,6 +18,8 @@ module.exports = function(eleventyConfig) {
 		"./public/": "/",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
+
+	// copy attachments to output folder, preserving folder structure
 	eleventyConfig.addPassthroughCopy("**/*.{pdf,svg,webp,png,jpeg,jpg}");
 
 	// set markdown footnote processor
@@ -27,7 +28,7 @@ module.exports = function(eleventyConfig) {
 	
 	let options = {
 	  html: true, // Enable HTML tags in source
-	  breaks: true,  // Convert '\n' in paragraphs into <br>
+	  breaks: false,  // Convert '\n' in paragraphs into <br>
 	  linkify: true // Autoconvert URL-like text to links
 	};
 	
@@ -43,7 +44,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg,jpg}");
 
 	// App plugins
-	eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(pluginImages);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 
@@ -115,14 +115,6 @@ module.exports = function(eleventyConfig) {
 		return (new Date()).toISOString();
 	})
 
-	// Features to make your build faster (when you need them)
-
-	// If your passthrough copy gets heavy and cumbersome, add this line
-	// to emulate the file copy on the dev server. Learn more:
-	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
-
-	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
-
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid
@@ -145,18 +137,6 @@ module.exports = function(eleventyConfig) {
 			includes: "../_includes",  // default: "_includes"
 			data: "../_data",          // default: "_data"
 			output: "_site"
-		},
-
-		// -----------------------------------------------------------------
-		// Optional items:
-		// -----------------------------------------------------------------
-
-		// If your site deploys to a subdirectory, change `pathPrefix`.
-		// Read more: https://www.11ty.dev/docs/config/#deploy-to-a-subdirectory-with-a-path-prefix
-
-		// When paired with the HTML <base> plugin https://www.11ty.dev/docs/plugins/html-base/
-		// it will transform any absolute URLs in your HTML to include this
-		// folder name and does **not** affect where things go in the output folder.
-		pathPrefix: "/",
+		}
 	};
 };
