@@ -24,16 +24,18 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. [PDF](upload/2022_osci
 ## Posters
 
 1. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
-V. Schüller, P. Birken, E. Blayo, F. Lemarié. [PDF](upload/2024_pasc_poster.pdf).
+V. Schüller, P. Birken, E. Blayo, F. Lemarié (PASC24, Zurich, Switzerland). [PDF](upload/2024_pasc_poster.pdf).
 2. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
-V. Schüller & P. Birken. [PDF](upload/2023_essence_poster.pdf).
+V. Schüller & P. Birken (Swedish e-Science Academy 2023, Uppsala, Sweden). [PDF](upload/2023_essence_poster.pdf).
+3. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
+D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. Neckel, V. Schüller (PinT 2023, Hamburg, Germany). [PDF](https://mediatum.ub.tum.de/doc/1717900/6vaynue56l2cyneih2xj5c26n.pdf).
 
 ## Talks
 
 1. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
-V. Schüller, P. Birken, A. Dedner. [PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium. [Slides](upload/2024-02-06-pint_slides.pdf).
+V. Schüller, P. Birken, A. Dedner ([PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium). [Slides](upload/2024-02-06-pint_slides.pdf).
 2. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
-V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. [9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany. [Slides](upload/2022-09-22-gacm_slides.pdf).
+V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany). [Slides](upload/2022-09-22-gacm_slides.pdf).
 
 
 ## Other
