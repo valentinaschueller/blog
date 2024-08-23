@@ -18,6 +18,8 @@ See also:
 
 ## Papers
 
+1. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024, submitted)<br>
+V. Schüller, P. Birken, A. Dedner. [Preprint on arXiV](https://arxiv.org/abs/2408.12582).
 1. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. [PDF](upload/2022_oscillator_paper.pdf), [DOI](https://doi.org/10.23967/wccm-apcom.2022.038).
 

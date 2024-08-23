@@ -18,6 +18,7 @@ We study how well this analysis works for the fully nonlinear case:
 For this purpose, I have developed a Python implementation for coupled surface-subsurface flow, using [DUNE](https://dune-project.org/) to generate the discretization and [preCICE](https://precice.org/) for coupling.
 
 See also:
+- the [preprint on arXiV](https://arxiv.org/abs/2408.12582)
 - the [code repository](https://gitlab.maths.lu.se/robertk/coupling)
 - [slides](/research/upload/2024-02-06-pint_slides.pdf) from my talk at PinT 2024
 - my [poster](/research/upload/2023_essence_poster.pdf) at the Swedish e-Science conference 2023
