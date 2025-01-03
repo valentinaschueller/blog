@@ -20,7 +20,7 @@ See also:
 
 1. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024, submitted)<br>
 V. Schüller, P. Birken, A. Dedner. [Preprint on arXiV](https://arxiv.org/abs/2408.12582).
-1. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
+2. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. [PDF](upload/2022_oscillator_paper.pdf), [DOI](https://doi.org/10.23967/wccm-apcom.2022.038).
 
 ## Posters
@@ -34,9 +34,11 @@ D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. N
 
 ## Talks
 
-1. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
+1. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
+V. Schüller, P. Birken, A. Dedner ([SWEDCOMP2024](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631), Stockholm, Sweden). [Slides](upload/2024-10-23_SWEDCOMP.pdf).
+2. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium). [Slides](upload/2024-02-06-pint_slides.pdf).
-2. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
+3. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany). [Slides](upload/2022-09-22-gacm_slides.pdf).
 
 
