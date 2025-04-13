@@ -17,6 +17,7 @@ I have created scripts and workflows to study the impact of different coupling a
 My master's thesis covers pure atmosphere-ocean coupling, right now we are working on cases including the sea ice model [SI3](https://doi.org/10.5281/zenodo.7534900).
 
 See also:
+- my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7)
 - the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling)
 - my [poster](/research/upload/2024_pasc_poster.pdf) at PASC24
 - my [master's thesis](/research/upload/2023_msc-thesis.pdf)

@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 2
 ---
 
-I am a PhD student in Numerical Analysis at Lund University, supervised by [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken) and [Mengwu Guo](https://www.mengwuguo.com/).
+I am a PhD student in Computational Science at Lund University, supervised by [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken) and [Mengwu Guo](https://www.mengwuguo.com/).
 My research focuses on **coupling algorithms for multiphysics problems**, particularly for **climate models** and **environmental applications** involving air and water flows.
 In this context I use *waveform relaxation* as a high-order black box coupling method.
 
@@ -18,9 +18,11 @@ See also:
 
 ## Papers
 
-1. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024, submitted)<br>
+1. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, submitted)<br>
+V. Schüller, F. Lemarié, P. Birken, E. Blayo.
+2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (in press)<br>
 V. Schüller, P. Birken, A. Dedner. [Preprint on arXiV](https://arxiv.org/abs/2408.12582).
-2. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
+3. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. [PDF](upload/2022_oscillator_paper.pdf), [DOI](https://doi.org/10.23967/wccm-apcom.2022.038).
 
 ## Posters
@@ -34,11 +36,13 @@ D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. N
 
 ## Talks
 
-1. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
+1. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
+V. Schüller, F. Lemarié, P. Birken, E. Blayo ([ECMWF Coupling Workshop](https://ecmwfevents.com/i/coupling-and-complexity-workshop), Bonn, Germany). [Slides](upload/2025-04-09_ECMWF-Coupling-Workshop.pdf), [Recording](https://vimeo.com/1074569269/ee41c7d5f7).
+2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([SWEDCOMP2024](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631), Stockholm, Sweden). [Slides](upload/2024-10-23_SWEDCOMP.pdf).
-2. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
+3. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium). [Slides](upload/2024-02-06-pint_slides.pdf).
-3. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
+4. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany). [Slides](upload/2022-09-22-gacm_slides.pdf).
 
 
@@ -47,3 +51,5 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2
 1. **Schwarz Waveform Relaxation for a Single Column Climate Model** (2023, MSc thesis, [PDF](upload/2023_msc-thesis.pdf)).
 2. **BGCE Honours Project** (2021/22). As part of the Bavarian Graduate School of Computational Engineering (BGCE), we worked on the parallelization and scalability of a C++ circuit simulator for Infineon Technologies. More info [here](https://www.bgce.de/curriculum/projects/parallel-nonlinear-solvers-for-integrated-circuits-simulation/).
 3. **Monitoring Numerical Climate Simulations: A Tool for the EC-Earth Climate Model** (2020, BSc thesis, [PDF](upload/2020_bsc-thesis.pdf)). I developed the [monitoring tool for EC-Earth 4](https://ec-earth-4-docs.readthedocs.io/en/latest/monitoring/main.html).  
+
+My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 77. Can't have it all!
