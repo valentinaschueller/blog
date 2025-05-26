@@ -16,6 +16,9 @@ The goal here is to make the EC-Earth AOSCM a tool for coupling algorithm develo
 I have created scripts and workflows to study the impact of different coupling algorithms on model output.
 My master's thesis covers pure atmosphere-ocean coupling, right now we are working on cases including the sea ice model [SI3](https://doi.org/10.5281/zenodo.7534900).
 
+The results of this project are summarized in the following publication:
+> Schüller, V., Lemarié, F., Birken, P., and Blayo, E.: Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1342, 2025.
+
 See also:
 - my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7)
 - the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling)

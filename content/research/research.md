@@ -19,7 +19,7 @@ See also:
 ## Papers
 
 1. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, submitted)<br>
-V. Schüller, F. Lemarié, P. Birken, E. Blayo.
+V. Schüller, F. Lemarié, P. Birken, E. Blayo. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-1342).
 2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
 V. Schüller, P. Birken, A. Dedner. *Int J Geomath*, [DOI](https://doi.org/10.1007/s13137-025-00265-4).
 3. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
