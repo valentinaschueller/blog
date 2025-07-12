@@ -22,7 +22,9 @@ See also:
 V. Schüller, F. Lemarié, P. Birken, E. Blayo. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-1342).
 2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
 V. Schüller, P. Birken, A. Dedner. *Int J Geomath*, [DOI](https://doi.org/10.1007/s13137-025-00265-4).
-3. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
+3. **A Layered Approach for Dynamic Resource Management in HPC** (2024)
+H.-J. Bungartz, P.-F. Dutot, J. Fecht, K. Gaddameedi, D. Huber, S. Iserte, M. Minion, T. Neckel, A. Peña, O. Richard, M. Schreiber, M. Schulz & V. Schüller. *Euro-Par 2024: Parallel Processing Workshops*, [DOI](https://doi-org.ludwig.lub.lu.se/10.1007/978-3-031-90203-1_34).
+4. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. *WCCM-APCOM 2022 Proceedings*, [PDF](upload/2022_oscillator_paper.pdf), [DOI](https://doi.org/10.23967/wccm-apcom.2022.038).
 
 ## Posters
@@ -36,13 +38,15 @@ D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. N
 
 ## Talks
 
-1. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
+1. **Analysis of Bulk Interface Conditions in Atmosphere-Ocean-Sea Ice Coupling** (2025)<br>
+V. Schüller, P. Birken ([DD29](https://www.dd29.polimi.it/), Milano, Italy). [Slides](upload/2025-06-27_DD29.pdf).
+2. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo ([ECMWF Coupling Workshop](https://ecmwfevents.com/i/coupling-and-complexity-workshop), Bonn, Germany). [Slides](upload/2025-04-09_ECMWF-Coupling-Workshop.pdf), [Recording](https://vimeo.com/1074569269/ee41c7d5f7).
-2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
+3. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([SWEDCOMP2024](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631), Stockholm, Sweden). [Slides](upload/2024-10-23_SWEDCOMP.pdf).
-3. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
+4. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium). [Slides](upload/2024-02-06-pint_slides.pdf).
-4. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
+5. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany). [Slides](upload/2022-09-22-gacm_slides.pdf).
 
 
