@@ -39,7 +39,7 @@ D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. N
 ## Talks
 
 1. **Analysis of Bulk Interface Conditions in Atmosphere-Ocean-Sea Ice Coupling** (2025)<br>
-V. Schüller, P. Birken ([DD29](https://www.dd29.polimi.it/), Milano, Italy). [Slides](upload/2025-06-27_DD29.pdf).
+V. Schüller, P. Birken ([ENUMATH 2025](https://www.enumath2025.eu/), Heidelberg, Germany & [DD29](https://www.dd29.polimi.it/), Milano, Italy). [Slides](upload/2025-09-01_ENUMATH.pdf).
 2. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo ([ECMWF Coupling Workshop](https://ecmwfevents.com/i/coupling-and-complexity-workshop), Bonn, Germany). [Slides](upload/2025-04-09_ECMWF-Coupling-Workshop.pdf), [Recording](https://vimeo.com/1074569269/ee41c7d5f7).
 3. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
