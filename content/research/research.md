@@ -18,13 +18,15 @@ See also:
 
 ## Papers
 
-1. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, submitted)<br>
+1. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (2025, submitted)<br>
+V. Schüller, P. Birken, H. Kjellson. Submitted to the DD29 Proceedings, [PDF](upload/2025_dd29-proceedings.pdf).
+2. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, submitted)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-1342).
-2. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
+3. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
 V. Schüller, P. Birken, A. Dedner. *Int J Geomath*, [DOI](https://doi.org/10.1007/s13137-025-00265-4).
-3. **A Layered Approach for Dynamic Resource Management in HPC** (2024)
+4. **A Layered Approach for Dynamic Resource Management in HPC** (2024)
 H.-J. Bungartz, P.-F. Dutot, J. Fecht, K. Gaddameedi, D. Huber, S. Iserte, M. Minion, T. Neckel, A. Peña, O. Richard, M. Schreiber, M. Schulz & V. Schüller. *Euro-Par 2024: Parallel Processing Workshops*, [DOI](https://doi-org.ludwig.lub.lu.se/10.1007/978-3-031-90203-1_34).
-4. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
+5. **A Simple Test Case for Convergence Order in Time and Energy Conservation of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. *WCCM-APCOM 2022 Proceedings*, [PDF](upload/2022_oscillator_paper.pdf), [DOI](https://doi.org/10.23967/wccm-apcom.2022.038).
 
 ## Posters
