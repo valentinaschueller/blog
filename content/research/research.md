@@ -54,8 +54,9 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2
 
 ## Other
 
-1. **Schwarz Waveform Relaxation for a Single Column Climate Model** (2023, MSc thesis, [PDF](upload/2023_msc-thesis.pdf)).
-2. **BGCE Honours Project** (2021/22). As part of the Bavarian Graduate School of Computational Engineering (BGCE), we worked on the parallelization and scalability of a C++ circuit simulator for Infineon Technologies. More info [here](https://www.bgce.de/curriculum/projects/parallel-nonlinear-solvers-for-integrated-circuits-simulation/).
-3. **Monitoring Numerical Climate Simulations: A Tool for the EC-Earth Climate Model** (2020, BSc thesis, [PDF](upload/2020_bsc-thesis.pdf)). I developed the [monitoring tool for EC-Earth 4](https://ec-earth-4-docs.readthedocs.io/en/latest/monitoring/main.html).  
+1. **Waveform Relaxation for Coupled Environmental Problems** (2025, PhD Midway Report, [PDF](upload/2025_midway-report-reduced.pdf))
+2. **Schwarz Waveform Relaxation for a Single Column Climate Model** (2023, MSc thesis, [PDF](upload/2023_msc-thesis.pdf)).
+3. **BGCE Honours Project** (2021/22). As part of the Bavarian Graduate School of Computational Engineering (BGCE), we worked on the parallelization and scalability of a C++ circuit simulator for Infineon Technologies. More info [here](https://www.bgce.de/curriculum/projects/parallel-nonlinear-solvers-for-integrated-circuits-simulation/).
+4. **Monitoring Numerical Climate Simulations: A Tool for the EC-Earth Climate Model** (2020, BSc thesis, [PDF](upload/2020_bsc-thesis.pdf)). I developed the [monitoring tool for EC-Earth 4](https://ec-earth-4-docs.readthedocs.io/en/latest/monitoring/main.html).  
 
 My [ha-index](https://www.irif.fr/~haberm/haindex.html) is 77. Can't have it all!

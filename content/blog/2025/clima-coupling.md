@@ -21,3 +21,4 @@ These are the questions I work on with this project:
 See also:
 - my [code on GitHub](https://github.com/valentinaschueller/clima-playground)
 - [slides](/research/upload/2025-06-27_DD29.pdf) from my talk at DD29
+- the [article](/research/upload/2025_dd29-proceedings.pdf) we submitted to the DD29 proceedings
