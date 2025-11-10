@@ -20,7 +20,7 @@ See also:
 
 1. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (2025, submitted)<br>
 V. Schüller, P. Birken, H. Kjellson. Submitted to the DD29 Proceedings, [PDF](upload/2025_dd29-proceedings.pdf).
-2. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, submitted)<br>
+2. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025, in press)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-1342).
 3. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
 V. Schüller, P. Birken, A. Dedner. *Int J Geomath*, [DOI](https://doi.org/10.1007/s13137-025-00265-4).
