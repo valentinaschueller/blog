@@ -17,7 +17,7 @@ I have created scripts and workflows to study the impact of different coupling a
 My master's thesis covers pure atmosphere-ocean coupling, right now we are working on cases including the sea ice model [SI3](https://doi.org/10.5281/zenodo.7534900).
 
 The results of this project are summarized in the following publication:
-> Schüller, V., Lemarié, F., Birken, P., and Blayo, E.: Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1342, 2025.
+> Schüller, V., Lemarié, F., Birken, P., and Blayo, E.: Quantifying coupling errors in atmosphere-ocean-sea ice models: A study of iterative and non-iterative approaches in the EC-Earth AOSCM, Geosci. Model Dev., 18, 9167–9187, https://doi.org/10.5194/gmd-18-9167-2025, 2025.
 
 See also:
 - my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7)
