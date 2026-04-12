@@ -24,5 +24,6 @@ See also:
 - the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling)
 - my [poster](/research/upload/2024_pasc_poster.pdf) at PASC24
 - my [master's thesis](/research/upload/2023_msc-thesis.pdf)
+- [Anna Rockstroh](https://portal.research.lu.se/en/persons/anna-rockstroh/)'s [master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9183501)
 
 ***Collaborators:** [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken); [Florian Lemarié](https://membres-ljk.imag.fr/Florian.Lemarie/) & [Eric Blayo](https://membres-ljk.imag.fr/Eric.Blayo/) ([AIRSEA Group](https://team.inria.fr/airsea/en/), INRIA Grenoble); [Dynamic Meteorology Group at MISU](https://www.su.se/english/research/research-groups/dynamic-meteorology).*

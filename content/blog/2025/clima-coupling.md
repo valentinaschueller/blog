@@ -21,4 +21,7 @@ These are the questions I work on with this project:
 See also:
 - my [code on GitHub](https://github.com/valentinaschueller/clima-playground)
 - [slides](/research/upload/2025-06-27_DD29.pdf) from my talk at DD29
-- the [article](/research/upload/2025_dd29-proceedings.pdf) we submitted to the DD29 proceedings
+- the [article](/research/upload/2025_dd29-proceedings.pdf) that will appear in the DD29 proceedings
+
+
+***Collaborators:** [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken), [Hanna Kjellson](https://portal.research.lu.se/en/persons/hanna-kjellson/), [Liu-Di Lu](https://liudi-lu.github.io) (Lund University); the CliMA community, in particular [Julia Sloan](https://github.com/juliasloan25) and [Jeff Yoder](https://github.com/jefftyoder).*

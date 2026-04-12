@@ -20,8 +20,8 @@ See also:
 
 1. **SWEET – Shallow Water Equation Environment for Tests v1.0** (2025, submitted) <br>
 K. Gaddameedi, F. Hamon, D. Huber, T. Lunet, P. S. Peixoto, J. G. Caldas Steinstraesser, M. Schreiber, V. Schüller. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-5156).
-2. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (2025, submitted)<br>
-V. Schüller, P. Birken, H. Kjellson. Submitted to the DD29 Proceedings, [PDF](upload/2025_dd29-proceedings.pdf).
+2. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (2025, in press)<br>
+V. Schüller, P. Birken, H. Kjellson. To appear in the DD29 Proceedings, [PDF](upload/2025_dd29-proceedings.pdf).
 3. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo. *Geosci. Model Dev.*, [DOI](https://doi.org/10.5194/gmd-18-9167-2025).
 4. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
