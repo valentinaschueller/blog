@@ -20,6 +20,7 @@ The results of this project are summarized in the following publication:
 > Schüller, V., Lemarié, F., Birken, P., and Blayo, E.: Quantifying coupling errors in atmosphere-ocean-sea ice models: A study of iterative and non-iterative approaches in the EC-Earth AOSCM, Geosci. Model Dev., 18, 9167–9187, https://doi.org/10.5194/gmd-18-9167-2025, 2025.
 
 See also:
+- my [poster](/research/upload/2026_EGU_poster.pdf) at EGU26
 - my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7)
 - the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling)
 - my [poster](/research/upload/2024_pasc_poster.pdf) at PASC24

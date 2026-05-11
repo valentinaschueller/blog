@@ -33,11 +33,13 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. *WCCM-APCOM 2022 Proce
 
 ## Posters
 
-1. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
+1. **Quantifying Coupling Errors in Atmosphere-Ice-Ocean Coupling** (2026)<br>
+V. Schüller, F. Lemarié, P. Birken, E. Blayo (EGU26, Vienna, Austria). [PDF](upload/2026_EGU_poster.pdf).
+2. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
 V. Schüller, P. Birken, E. Blayo, F. Lemarié (PASC24, Zurich, Switzerland). [PDF](upload/2024_pasc_poster.pdf).
-2. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
+3. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
 V. Schüller & P. Birken (Swedish e-Science Academy 2023, Uppsala, Sweden). [PDF](upload/2023_essence_poster.pdf).
-3. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
+4. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
 D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. Neckel, V. Schüller (PinT 2023, Hamburg, Germany). [PDF](https://mediatum.ub.tum.de/doc/1717900/6vaynue56l2cyneih2xj5c26n.pdf).
 
 ## Talks
