@@ -300,3 +300,9 @@ h2 + .header-anchor {
 		margin-bottom: .5em;
 	}
 }
+
+footer {
+	padding-top: 5em;
+	text-align: center;
+	font-size: small;
+}
