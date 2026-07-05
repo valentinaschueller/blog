@@ -1,6 +1,7 @@
 const wander = {
   // Other Wander consoles that visitors can reach from my console.
   consoles: [
+    'https://wander.fexilus.com', 
     'https://susam.net/wander/',
   ],
 
@@ -13,6 +14,8 @@ const wander = {
     'https://hballington12.github.io/oignon/',
     'https://internetphonebook.net',
     'https://www.noidea.dog/glue',
+    'https://albertocinco.com',
+    'https://jointheshift.earth',
   ],
 
   // Websites and consoles to ignore.  My console will never fetch

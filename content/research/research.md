@@ -44,15 +44,17 @@ D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. N
 
 ## Talks
 
-1. **Analysis of Bulk Interface Conditions in Atmosphere-Ocean-Sea Ice Coupling** (2025)<br>
+1. **Reliable Waveform Relaxation Convergence Estimates in Atmosphere-Ice-Ocean Coupling** (2026)<br>
+V. Schüller, P. Birken, L. Lu ([Equadiff 2026](https://www.equadiff2026.cz), Prague, Czechia). [Slides](upload/2026-06-30_Equadiff.pdf).
+2. **Analysis of Bulk Interface Conditions in Atmosphere-Ocean-Sea Ice Coupling** (2025)<br>
 V. Schüller, P. Birken ([ENUMATH 2025](https://www.enumath2025.eu/), Heidelberg, Germany & [DD29](https://www.dd29.polimi.it/), Milano, Italy). [Slides](upload/2025-09-01_ENUMATH.pdf).
-2. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
+3. **On Numerical Errors in the Atmosphere–Ocean–Sea Ice System** (2025)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo ([ECMWF Coupling Workshop](https://ecmwfevents.com/i/coupling-and-complexity-workshop), Bonn, Germany). [Slides](upload/2025-04-09_ECMWF-Coupling-Workshop.pdf), [Recording](https://vimeo.com/1074569269/ee41c7d5f7).
-3. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
+4. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([SWEDCOMP2024](https://www.kth.se/math/naost/na/swedcomp2024-1.1345631), Stockholm, Sweden). [Slides](upload/2024-10-23_SWEDCOMP.pdf).
-4. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
+5. **Waveform Relaxation for Coupled Groundwater and Surface Flows** (2024)<br>
 V. Schüller, P. Birken, A. Dedner ([PinT 2024](https://parallel-in-time.org/events/13th-pint-workshop/), Bruges, Belgium). [Slides](upload/2024-02-06-pint_slides.pdf).
-5. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
+6. **A Simple Test Case for Error Reduction of Black-Box Coupling Schemes** (2022)<br>
 V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz ([9th GACM Colloquium 2022](https://colloquia.gacm.de/organisation), Essen, Germany). [Slides](upload/2022-09-22-gacm_slides.pdf).
 
 
