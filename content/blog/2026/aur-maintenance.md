@@ -39,4 +39,12 @@ Then:
 
 > "Hier passiert keine Magic." ([Claudia Wagner](http://claudiawagner.info), 2017)
 
+---
+
+**Update (11/8/26):**
+If you manage more than one package, this might become tedious/repetitive.
+Of course, somebody has had that problem and [solved it](https://docs.renovatebot.com/user-stories/maintaining-aur-packages-with-renovate/).
+Their workflow uses the [Renovate](https://github.com/apps/renovate) bot and GitHub actions to automatically check for new versions, update the `PKGBUILD` and `.SRCINFO`, and publish the new updates to the AUR.
+Thank you to Robert/fuero for pointing this out!
+
 [^1]: It took me more than a year to learn about [`updpkgsums`](https://man.archlinux.org/man/updpkgsums.8.en)...
