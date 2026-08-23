@@ -110,17 +110,17 @@ Här är några fler detaljer som jag hittade om Anders Larsson Andersson (ärli
 Och det skulle de ju verkligen behålla rätt i! 
 
 Restaurangen i Folkets Park fick inte namnet förrän i juni 1923, men då med tydlig referens till Andersson.[^14]
-Det var åtminstone två gånger till att "far i hatten" dök upp i Malmös historia mellan Anderssons död och restaurangens namnbyte:
+Det var åtminstone två gångar till att "far i hatten" dök upp i Malmös historia mellan Anderssons död och restaurangens namnbyte:
 
 På Malmös nyårsrevy 1901, *Paraden på Stortorget*, hette en av figurerna "Far i hatten (staty)".
 Tydligen var det Karl X Gustavs staty på Stortorget som fick vara med (den bär ju också hatt!), fast under ett namn med dubbelmening.[^16]
-Det finns mer att läsa om pjäsen i olika artiklar, och den uppfördes mer än 25 gånger under januari 1901.[^17]
+Det finns mer att läsa om pjäsen i olika artiklar, och den uppfördes mer än 25 gångar under januari 1901.[^17]
 Vem vet, den kanske även finns bevarad någonstans? Revyn skrevs af Gustaf Gullberg.[^18]
 
 Den andra gången var på Barnens dag i maj 1910:
 Där fick ett av förfriskningsställen på Gustav Adolfs torg heta som traktören.[^19]
 
-Jag kan alltså tänka mig att det fanns många i Malmö i 1920-talet som hade hört talas om far i hatten, även om de kanske inte visste om "originalet" eller den gamla krogen.
+Jag kan alltså tänka mig att det fanns många i Malmö på 1920-talet som hade hört talas om far i hatten, även om de kanske inte visste om "originalet" eller den gamla krogen.
 Och vem vet, det kanske även var Karl Möllers artikel om Malmös historia från samma år som inspirerade Folkets parks ägarna att återigen blåsa liv i smeknamnet!
 
 ---
