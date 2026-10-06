@@ -18,10 +18,10 @@ See also:
 
 ## Papers
 
-1. **SWEET – Shallow Water Equation Environment for Tests v1.0** (2025, submitted) <br>
-K. Gaddameedi, F. Hamon, D. Huber, T. Lunet, P. S. Peixoto, J. G. Caldas Steinstraesser, M. Schreiber, V. Schüller. [Preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-5156).
-2. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (2025, in press)<br>
-V. Schüller, P. Birken, H. Kjellson. To appear in the DD29 Proceedings, [PDF](upload/2025_dd29-proceedings.pdf).
+1. **SWEET – Shallow Water Equation Environment for Tests v1.0** (in press) <br>
+K. Gaddameedi, F. Hamon, D. Huber, T. Lunet, P. S. Peixoto, J. G. Caldas Steinstraesser, M. Schreiber, V. Schüller. *To appear in Geosci. Model Dev.*, [preprint on EGUsphere](https://doi.org/10.5194/egusphere-2025-5156).
+2. **Analysis of Bulk Interface Conditions for Atmosphere-Ice-Ocean Coupling** (in press)<br>
+V. Schüller, P. Birken, H. Kjellson. *To appear in the DD29 Proceedings*, [PDF available](https://www.ddm.org/DD29/proceedings/ID21_pages.pdf).
 3. **Quantifying Coupling Errors in Atmosphere-Ocean-Sea Ice Models: A Study of Iterative and Non-Iterative Approaches in the EC-Earth AOSCM** (2025)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo. *Geosci. Model Dev.*, [DOI](https://doi.org/10.5194/gmd-18-9167-2025).
 4. **Convergence Properties of Iteratively Coupled Surface-Subsurface Models** (2025)<br>
@@ -33,13 +33,15 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. *WCCM-APCOM 2022 Proce
 
 ## Posters
 
+1. **Energy-Efficient Coupled Simulations with Dynamic Voltage and Frequency Scaling** (2026)<br>
+V. Schüller, F. Vaverka, O. Vysocký, P. Birken, R. Iakymchuk (SC26, Chicago, USA). [Session link](https://sc26.conference-program.com/presentation/?id=rpost165&sess=sess313), [Poster PDF](upload/2026_SC26_poster.pdf).
 1. **Quantifying Coupling Errors in Atmosphere-Ice-Ocean Coupling** (2026)<br>
 V. Schüller, F. Lemarié, P. Birken, E. Blayo (EGU26, Vienna, Austria). [PDF](upload/2026_EGU_poster.pdf).
-2. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
+1. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
 V. Schüller, P. Birken, E. Blayo, F. Lemarié (PASC24, Zurich, Switzerland). [PDF](upload/2024_pasc_poster.pdf).
-3. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
+1. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
 V. Schüller & P. Birken (Swedish e-Science Academy 2023, Uppsala, Sweden). [PDF](upload/2023_essence_poster.pdf).
-4. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
+1. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
 D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. Neckel, V. Schüller (PinT 2023, Hamburg, Germany). [PDF](https://mediatum.ub.tum.de/doc/1717900/6vaynue56l2cyneih2xj5c26n.pdf).
 
 ## Talks

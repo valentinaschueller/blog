@@ -11,11 +11,12 @@ const wander = {
     'https://annaladd.lol',
     'https://www.marginalia.nu',
     'https://bavaria-ipsum.de',
-    'https://hballington12.github.io/oignon/',
+    'https://oignon.dev/app/',
     'https://internetphonebook.net',
     'https://www.noidea.dog/glue',
     'https://albertocinco.com',
     'https://jointheshift.earth',
+    'https://delphi.tools',
   ],
 
   // Websites and consoles to ignore.  My console will never fetch
