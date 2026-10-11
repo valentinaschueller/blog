@@ -20,7 +20,7 @@ These are the questions I work on with this project:
 
 See also:
 - my [code on GitHub](https://github.com/valentinaschueller/clima-playground)
-- the [article](/research/upload/2025_dd29-proceedings.pdf) that will appear in the DD29 proceedings
+- the [article]([/research/upload/2025_dd29-proceedings.pdf](https://www.ddm.org/DD29/proceedings/ID21_pages.pdf)) that will appear in the DD29 proceedings
 - [slides](/research/upload/2026-06-30_Equadiff.pdf) from my most recent talk at Equadiff 2026
 
 

@@ -13,18 +13,19 @@ I started working with the EC-Earth coupled atmosphere–ocean single-column mod
 This is a version of the [EC-Earth global climate model](https://ec-earth.org/) which is useful for model development, particularly regarding physics parameterizations in the atmospheric and oceanic boundary layers.
 The goal here is to make the EC-Earth AOSCM a tool for coupling algorithm development in climate models.
 
-I have created scripts and workflows to study the impact of different coupling algorithms on model output.
-My master's thesis covers pure atmosphere-ocean coupling, right now we are working on cases including the sea ice model [SI3](https://doi.org/10.5281/zenodo.7534900).
+I created scripts and workflows to study the impact of different coupling algorithms on model output.
+My [master's thesis](/research/upload/2023_msc-thesis.pdf) covers pure atmosphere-ocean coupling, later we also included sea ice.
+We learned from this project that coupling errors can quickly affect model trajectories, especially if you have jumps in the model physics.
 
-The results of this project are summarized in the following publication:
+Most of the results are summarized in the following publication:
 > Schüller, V., Lemarié, F., Birken, P., and Blayo, E.: Quantifying coupling errors in atmosphere-ocean-sea ice models: A study of iterative and non-iterative approaches in the EC-Earth AOSCM, Geosci. Model Dev., 18, 9167–9187, https://doi.org/10.5194/gmd-18-9167-2025, 2025.
 
+Afterwards, I implemented the sea ice albedo fix we proposed in the paper in NEMO, and it has been part of EC-Earth since v4.1.8.
+You can see results from this change in [this poster](/research/upload/2026_SCS_poster.pdf) I presented at SCS and EGU 2026.
+
 See also:
-- my [poster](/research/upload/2026_EGU_poster.pdf) at EGU26
-- my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7)
-- the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling)
-- my [poster](/research/upload/2024_pasc_poster.pdf) at PASC24
-- my [master's thesis](/research/upload/2023_msc-thesis.pdf)
-- [Anna Rockstroh](https://portal.research.lu.se/en/persons/anna-rockstroh/)'s [master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9183501)
+- my [talk at the ECMWF Coupling workshop 2025](https://vimeo.com/1074569269/ee41c7d5f7),
+- the corresponding [GitHub repository](https://github.com/valentinaschueller/ece-scm-coupling),
+- [Anna Rockstroh](https://portal.research.lu.se/en/persons/anna-rockstroh/)'s [master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9183501).
 
 ***Collaborators:** [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken); [Florian Lemarié](https://membres-ljk.imag.fr/Florian.Lemarie/) & [Eric Blayo](https://membres-ljk.imag.fr/Eric.Blayo/) ([AIRSEA Group](https://team.inria.fr/airsea/en/), INRIA Grenoble); [Dynamic Meteorology Group at MISU](https://www.su.se/english/research/research-groups/dynamic-meteorology).*

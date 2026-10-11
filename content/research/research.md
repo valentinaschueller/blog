@@ -6,8 +6,10 @@ eleventyNavigation:
 ---
 
 I am a PhD student in Computational Science at Lund University, supervised by [Philipp Birken](https://www.maths.lu.se/staff/philipp-birken) and [Mengwu Guo](https://www.mengwuguo.com/).
-My research focuses on **coupling algorithms for multiphysics problems**, particularly for **climate models** and **environmental applications** involving air and water flows.
-In this context I use *waveform relaxation* as a high-order black box coupling method.
+
+I am mainly interested in how complex, interdependent systems communicate, and if I can help improve that communication.
+My focus is on atmosphere-ice-ocean interactions in climate models, but you will see that this is not the only problem I have worked on!
+You can find topic-based summaries for most of my projects [here](../tags/research/), I update these regularly.
 
 See also:
 - [Lund University's Research Portal](https://portal.research.lu.se/en/persons/valentina-schueller)
@@ -35,13 +37,13 @@ V. Schüller, B. Rodenberg, B. Uekermann, H.-J. Bungartz. *WCCM-APCOM 2022 Proce
 
 1. **Energy-Efficient Coupled Simulations with Dynamic Voltage and Frequency Scaling** (2026)<br>
 V. Schüller, F. Vaverka, O. Vysocký, P. Birken, R. Iakymchuk (SC26, Chicago, USA). [Session link](https://sc26.conference-program.com/presentation/?id=rpost165&sess=sess313), [Poster PDF](upload/2026_SC26_poster.pdf).
-1. **Quantifying Coupling Errors in Atmosphere-Ice-Ocean Coupling** (2026)<br>
-V. Schüller, F. Lemarié, P. Birken, E. Blayo (EGU26, Vienna, Austria). [PDF](upload/2026_EGU_poster.pdf).
-1. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
+2. **Quantifying Coupling Errors in Atmosphere-Ice-Ocean Coupling** (2026)<br>
+V. Schüller, F. Lemarié, P. Birken, E. Blayo (EGU26, Vienna, Austria & SCS 2026, Lund, Sweden). [PDF](upload/2026_SCS_poster.pdf).
+3. **Waveform Relaxation for Atmosphere-Ocean-Sea Ice Coupling** (2024)<br>
 V. Schüller, P. Birken, E. Blayo, F. Lemarié (PASC24, Zurich, Switzerland). [PDF](upload/2024_pasc_poster.pdf).
-1. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
+4. **Numerical Methods for Coupled Environmental Problems** (2023)<br>
 V. Schüller & P. Birken (Swedish e-Science Academy 2023, Uppsala, Sweden). [PDF](upload/2023_essence_poster.pdf).
-1. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
+5. **PFASST with dynamic resource management for large-scale applications** (2023)<br>
 D. Huber, H.-J. Bungartz, J. Fecht, K. Gaddameedi, M. Schreiber, M. Schulz, T. Neckel, V. Schüller (PinT 2023, Hamburg, Germany). [PDF](https://mediatum.ub.tum.de/doc/1717900/6vaynue56l2cyneih2xj5c26n.pdf).
 
 ## Talks
